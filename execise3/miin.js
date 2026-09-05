@@ -100,4 +100,3 @@ switch (number) {
     default:
         console.log("Invalid number");
 }
-
