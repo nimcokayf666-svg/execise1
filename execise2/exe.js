@@ -13,7 +13,7 @@ while (b <= 5) {
     b++;
 }
 
-// 3 DO...WHILE LOOP
+// 3 DO WHILE LOOP
 
 let a = 1;
 
@@ -22,7 +22,7 @@ do {
     a++;
 } while (a <= 5);
 
-// 4 FOR...OF LOOP
+// 4 FOR OF LOOP
 
 let fruits = ["Apple", "Banana", "Mango"];
 
@@ -30,7 +30,7 @@ for (let fruit of fruits) {
     console.log(fruit);
 }
 
-// 5  FOR...IN LOOP
+// 5  FOR IN LOOP
 
 let student = {
     name: "Nimco",
