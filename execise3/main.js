@@ -100,3 +100,35 @@ switch (number) {
     default:
         console.log("Invalid number");
 }
+
+
+let names ="axmed";
+
+switch(names){
+    case 1:
+        console.log("teacher");
+        break;
+        case 2:
+            console.log("manager");
+}
+
+// let names = "burhaan";
+
+// switch (names) {
+//     case "ahmed":
+//         console.log("ahmed students");
+//         break
+//     case "nimco":
+//         console.log("nimco manager");
+//         break;
+
+//     case "fuuuuuuuuji":
+//         console.log("burhaan admin")
+//         break
+
+//     default:
+//         console.log("not found")
+
+
+
+// }
